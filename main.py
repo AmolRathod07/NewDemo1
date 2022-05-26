@@ -1,1 +1,1 @@
-change some code in this program
+print("change some code in this program")

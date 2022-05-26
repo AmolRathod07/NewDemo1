@@ -40,3 +40,4 @@ all_options=drp.options
 for option in all_options:
     print(option.text)
 
+print("its almost done")
